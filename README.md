@@ -1,1 +1,1 @@
-# notesaApp
+# notes-app-vanillasjs
